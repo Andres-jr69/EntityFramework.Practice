@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Entity Framework Core - A Full Tour Supporting Files
 
 In this course, [Entity Framework Core - A Full Tour](https://www.udemy.com/course/entity-framework-core-a-full-tour/?referralCode=AE4C8876B2B444EF9D22) , you will learn to work with data in your .NET applications. 
@@ -32,3 +33,7 @@ By the end of watching this course, you'll be able to:
 
 
 
+=======
+# EntityFramework.Practice
+EntityFramework.Practice2
+>>>>>>> ecc4cda6ee453a929cd94344c8a7f7653d28b5b1
